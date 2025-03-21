@@ -4,14 +4,7 @@ int main()
 	int i, low, high, mid, n, key, array[5000];
 	printf("Enter number of elements:");
 	scanf("%d",&n);
-	//printf("Enter %d integersn", n);
-	//for(i = 0; i < n; i++)
-	//scanf("%d",&array[i]);
-	//int a[1000];
-	//	for(i=0;i<=n;i++){
-	//		array[i]=(rand()%100)+1;
-	//		printf("%d\t",array[i]);
-	//	}
+	
 	printf("Enter value to findn:");
 	scanf("%d", &key);
 	low = 0; 
