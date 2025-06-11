@@ -24,6 +24,7 @@ int main()
 	if(low > high)
 	printf("Not found! %d isn't present in the list\n", key);
 	return 0;
+	printf("hiiiiii");
 }
 
 
